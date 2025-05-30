@@ -1,4 +1,4 @@
-# 💫 About Me
+<img src="IMG_9019.jpg" alt="Vincent Kipkemoi" width="200" style="border-radius: 50%;" />
 ### 💫 Hi there! 👋 I'm Kipkemoi Vincent  
 
 I am a passionate Data Scientist, ML/AI Engineer & Data Analyst with expertise in transforming raw data into actionable insights and developing scalable data science/ ML solutions in production environments. With experience across fintech, environmental science, healthcare, and agri-tech, I build machine learning models, predictive systems, 
@@ -7,6 +7,21 @@ and analytical solutions that drive growth and optimize decision-making.
 Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
 
 ---
+### 🎯 My Mission  
+I’m passionate about using AI and data science to tackle real-world challenges — from enhancing financial security through fraud detection to improving healthcare accessibility in underserved communities. I strive to build scalable, interpretable ML solutions that create lasting impact.
+
+---
+
+### 🤝 Collaboration & Communication  
+Skilled at working in diverse teams, translating complex technical concepts for non-technical stakeholders, and applying agile project management to deliver impactful solutions.
+
+---
+
+### 🎓 Education
+- MPhil in Environmental Science: The Cyprus Institute, Nicosia Cyprus.
+- MSc in Mathematical Sciences(Data Science) : University of Western Cape/AIMS, Cape Town, South Africa.
+- BSc. Mathematics: University of Nairobi, Nairobi, Kenya.
+
 
 # 📋 Professional Summary
 
@@ -24,7 +39,58 @@ Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
 
 ---
 
-## 💼 Featured Projects  
+# 💼 Featured Projects 
+
+## 🏥 Healthcare Accessibility in Nairobi
+
+![Figure 1: Age distribution](fig6.png)
+
+This project conducted a comprehensive data-driven analysis of healthcare accessibility across Nairobi's sub-counties, examining population demographics, healthcare facility distribution, and service availability in relation to SDG Goal 3 (Good Health and Wellbeing). Through spatial and statistical analysis, the study identified key disparities in access, particularly in informal settlements, and proposed actionable, evidence-based recommendations to improve healthcare infrastructure, enhance service delivery, and support equitable access to medical resources for underserved communities. 👉 Read the full project on [GitHub](https://github.com/Vinylango25/Healthcare-Accessibility-in-Nairobi)  or  [Medium](https://medium.com/@vinylango90/enhancing-healthcare-accessibility-in-nairobi-kenya-ee275471faa7)
+
+---
+
+<br><br>
+
+
+## 🛡️ Anomaly and Fraud Detection in Finance
+
+![Figure 1: Age distribution](fg7.png)
+
+This project developed a scalable and interpretable fraud detection pipeline for highly imbalanced credit card transaction data. It employed advanced sampling techniques like SMOTE and SMOTEENN to balance the dataset and evaluated a range of models including Logistic Regression, Random Forest, Gradient Boosting, LightGBM, KNN, and Isolation Forest. AutoML tools such as FLAML and PyOD enhanced model tuning and anomaly detection. Feature selection methods (RFE, Mutual Information) were applied to retain key predictors, and performance was assessed using precision, recall, F1-score, ROC-AUC, and confusion matrices. To ensure transparency, LIME and SHAP were used for model explainability, enabling clear interpretation of fraud predictions. 👉 Read the full project on [Github](https://github.com/Vinylango25/Anomaly-Fraud-detection-in-Finance) or  [Medium](https://medium.com/@vinylango90/anomaly-detection-in-credit-card-transactions-using-pyod-and-microsoft-automl-flaml-727a091487bd)
+
+---
+<br><br>
+
+## 🤖 Lending Automation - ML for Credit Scoring
+
+![Figure 1: Age distribution](cost.png)
+
+
+This project evaluated the application of machine learning models—specifically Random Forest, XGBoost, and LightGBM—for automating credit scoring and lending decisions in order to streamline the loan approval process, reduce manual intervention, and optimize operational efficiency. The models were trained on historical loan application data to predict creditworthiness, using engineered features that captured borrower behavior, financial indicators, and risk patterns. Comparative analysis focused on performance metrics such as precision, recall, F1-score, and ROC-AUC to determine each model's predictive power and reliability. In addition to model accuracy, emphasis was placed on computational efficiency and scalability to ensure the solution could be deployed in real-time lending environments. The outcome demonstrated that ML-driven credit scoring can significantly shorten processing time, reduce default risk, and enable data-driven lending strategies that improve customer experience and operational throughput.  👉 Read the full project on [Github](https://github.com/Vinylango25/Credit-Scoring-Lending-automation) or [Medium](https://medium.com/@vinylango90/credit-scoring-lending-automation-6dabe30d53da)
+
+
+---
+<br><br>
+
+## 🌍 Air Quality Monitoring in Nicosia, Cyprus
+
+![Figure 1: Age distribution](dqo.png)
+
+This project focused on developing and evaluating machine learning models—namely Random Forest, Artificial Neural Networks (ANN), and XGBoost—to calibrate low-cost gas sensors measuring pollutants such as CO, NO₂, O₃, and SO₂ for urban air quality monitoring. The primary objective was to improve sensor accuracy and achieve data quality standards compliant with EU directives. To address challenges posed by sensor cross-sensitivity and environmental variability, the models incorporated techniques for correcting sensor interference and adjusting for ambient conditions such as temperature and humidity. Feature engineering and data preprocessing played a key role in enhancing model robustness. The calibrated models successfully improved the reliability of gas concentration readings, particularly for CO, NO₂, and O₃. In addition to model development, the project proposed a scalable and cost-effective sensor network deployment strategy to support continuous, real-time air quality monitoring in urban environments, making the solution both scientifically rigorous and practically deployable.  👉 Read the full project on [Github](https://github.com/Vinylango25/Air-Quality-in-Nicosia-Cyprus)
+
+---
+<br><br>
+
+## 📉 Customer Churn Analysis and Prediction
+
+![Figure 1: Age distribution](churn.png)
+
+Developed a system to analyze customer churn using survival analysis techniques. Implemented Kaplan-Meier curves and Cox Proportional Hazards models to understand churn over time and estimate customer lifetime value. Built a Random Forest classifier to predict churn, achieving an F1 score of 0.62 and ROC-AUC of 0.85. Deployed a Flask web app featuring SHAP visualizations, survival/hazard curves, and churn probability gauges for individual customer insights. 👉  Read the full project on [Github](https://github.com/Vinylango25/Customer_Churn_Analysis_And_Prediction)
+
+---
+<br><br>
+
+## 💼 Full Projects Summary
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
