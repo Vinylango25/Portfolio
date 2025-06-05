@@ -41,16 +41,6 @@ Skilled at working in diverse teams, translating complex technical concepts for 
 
 # 💼 Featured Projects 
 
-## 🏥 Healthcare Accessibility in Nairobi
-
-![Figure 1: Age distribution](fig6.png)
-
-This project conducted a comprehensive data-driven analysis of healthcare accessibility across Nairobi's sub-counties, examining population demographics, healthcare facility distribution, and service availability in relation to SDG Goal 3 (Good Health and Wellbeing). Through spatial and statistical analysis, the study identified key disparities in access, particularly in informal settlements, and proposed actionable, evidence-based recommendations to improve healthcare infrastructure, enhance service delivery, and support equitable access to medical resources for underserved communities. 👉 Read the full project on [GitHub](https://github.com/Vinylango25/Healthcare-Accessibility-in-Nairobi)  or  [Medium](https://medium.com/@vinylango90/enhancing-healthcare-accessibility-in-nairobi-kenya-ee275471faa7)
-
----
-
-<br><br>
-
 
 ## 🛡️ Anomaly and Fraud Detection in Finance
 
@@ -95,7 +85,6 @@ Developed a system to analyze customer churn using survival analysis techniques.
 | Project | Description | Tools Used |
 |--------|-------------|------------|
 | [🛡️ Anomaly and Fraud Detection in Finance](https://github.com/Vinylango25/Anomaly-Fraud-detection-in-Finance) | Conducted a comprehensive anomaly detection project on an imbalanced credit card fraud dataset. Compared traditional and AutoML models (PyOD, FLAML), applied feature selection techniques, and evaluated performance under SMOTE and SMOTEENN balancing. Used multiple detectors including Logistic Regression, Random Forest, Gradient Boosting, LightGBM, KNN, and Isolation Forest. Performed global and local explainability analysis with LIME and SHAP to assess model interpretability and decision transparency. | Python, Scikit-learn, LightGBM, FLAML, PyOD, LIME, SHAP |
-| [🏥 Healthcare Accessibility in Nairobi](https://github.com/Vinylango25/Healthcare-Accessibility-in-Nairobi) | Conducted an extensive data-driven analysis of healthcare accessibility across Nairobi's sub-counties. Assessed population demographics, facility distributions, service availability, and alignment with SDG Goal 3 (Health and Wellbeing). Proposed actionable recommendations for improving healthcare infrastructure and service coverage, especially in underserved slum areas. | Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook |
 | [🤖 Lending Automation - ML for Credit Scoring](https://github.com/Vinylango25/Credit-Scoring-Lending-automation) | Evaluated how Random Forest, XGBoost, and LGBM can automate lending decisions, reduce loan processing time and operational costs, and scale lending operations efficiently. | Python, Scikit-learn, RF, XGBoost, LightGBM |
 | [🌍 Air Quality Monitoring in Nicosia, Cyprus](https://github.com/Vinylango25/Air-Quality-in-Nicosia-Cyprus) | Developed machine learning models (Random Forest, ANN, XGBoost) to calibrate low-cost gas sensors (CO, NO₂, O₃, SO₂) for urban air quality monitoring. Achieved EU directive-compliant data quality for CO, NO₂, and O₃ measurements through sensor cross-sensitivity correction, environmental factor adjustment, and optimized calibration strategies. Proposed cost-effective network deployment methodologies. | Python, Scikit-learn, XGBoost, Random Forest, Data Analysis, Jupyter Notebook |
 | [📉 Customer Churn Analysis and Prediction](https://github.com/Vinylango25/Customer_Churn_Analysis_And_Prediction) |Developed a system to analyze customer churn using survival analysis techniques. Implemented Kaplan-Meier curves and Cox Proportional Hazards models to understand churn over time and estimate customer lifetime value. Built a Random Forest classifier to predict churn, achieving an F1 score of 0.62 and ROC-AUC of 0.85. Deployed a Flask web app featuring SHAP visualizations, survival/hazard curves, and churn probability gauges for individual customer insights. | Python, Flask, Scikit-learn, SHAP, Cox Proportional Hazards Model, Survival Analysis |
