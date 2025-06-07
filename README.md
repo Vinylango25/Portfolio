@@ -6,16 +6,7 @@ and analytical solutions that drive growth and optimize decision-making.
 
 Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
 
----
-### 🎯 My Mission  
-I’m passionate about using AI and data science to tackle real-world challenges — from enhancing financial security through fraud detection to improving healthcare accessibility in underserved communities. I strive to build scalable, interpretable ML solutions that create lasting impact.
 
----
-
-### 🤝 Collaboration & Communication  
-Skilled at working in diverse teams, translating complex technical concepts for non-technical stakeholders, and applying agile project management to deliver impactful solutions.
-
----
 
 ### 🎓 Education
 - MPhil in Environmental Science: The Cyprus Institute, Nicosia Cyprus.
@@ -32,12 +23,10 @@ Skilled at working in diverse teams, translating complex technical concepts for 
 - Experienced with MLOps workflows: streamlit, Docker, Kubernetes, MLflow, FastAPI, and CI/CD pipelines.
 - Committed to leveraging advanced analytics for risk minimization, business growth, and social impact.
 
----
 ## 🌍 Connect with Me  
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)   
 📫 **Email:** vincentl@aims.ac.za/vinylango90@gmail.com
 
----
 
 # 💼 Featured Projects 
 
@@ -84,10 +73,8 @@ Developed a system to analyze customer churn using survival analysis techniques.
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| [🛡️ Anomaly and Fraud Detection in Finance](https://github.com/Vinylango25/Anomaly-Fraud-detection-in-Finance) | This project applies PyOD and Microsoft AutoML (FLAML) to detect anomalies in credit card transactions using a highly imbalanced dataset. A variety of algorithms—including Isolation Forest and Autoencoders—were tested for their ability to flag suspicious activity. To address imbalance, techniques like undersampling, oversampling, and SMOTE were applied. Evaluation focused on metrics like Precision, Recall, and ROC-AUC for a robust assessment. The outcome is a high-precision fraud detection pipeline that enhances financial risk management. 👉 Read the full project on [Github](https://github.com/Vinylango25/Anomaly-Fraud-detection-in-Finance) or  [Medium](https://medium.com/@vinylango90/anomaly-detection-in-credit-card-transactions-using-pyod-and-microsoft-automl-flaml-727a091487bd)
- | Python, Scikit-learn, LightGBM, FLAML, PyOD, LIME, SHAP |
-| [🤖 Lending Automation - ML for Credit Scoring](https://github.com/Vinylango25/Credit-Scoring-Lending-automation) | This project builds an end-to-end loan approval system using machine learning algorithms like Random Forest, XGBoost, and LightGBM. It replaces manual decision-making with faster, scalable, and data-driven processes for improved credit scoring. Key tasks include data cleaning, feature engineering, and model optimization using real-world loan data. Evaluation metrics ensure accuracy and fairness, reducing false approvals and rejections. The system supports personalized lending and dynamic pricing for better customer experience. 👉 Read the full project on [Github](https://github.com/Vinylango25/Credit-Scoring-Lending-automation) or [Medium](https://medium.com/@vinylango90/credit-scoring-lending-automation-6dabe30d53da)
-| Python, Scikit-learn, RF, XGBoost, LightGBM |
+| [🛡️ Anomaly and Fraud Detection in Finance](https://github.com/Vinylango25/Anomaly-Fraud-detection-in-Finance) | This project applies PyOD and Microsoft AutoML (FLAML) to detect anomalies in credit card transactions using a highly imbalanced dataset. A variety of algorithms—including Isolation Forest and Autoencoders—were tested for their ability to flag suspicious activity. To address imbalance, techniques like undersampling, oversampling, and SMOTE were applied. Evaluation focused on metrics like Precision, Recall, and ROC-AUC for a robust assessment. The outcome is a high-precision fraud detection pipeline that enhances financial risk management. 👉 Read the full project on [Github](https://github.com/Vinylango25/Anomaly-Fraud-detection-in-Finance) or  [Medium](https://medium.com/@vinylango90/anomaly-detection-in-credit-card-transactions-using-pyod-and-microsoft-automl-flaml-727a091487bd)| Python, Scikit-learn, LightGBM, FLAML, PyOD, LIME, SHAP |
+| [🤖 Lending Automation - ML for Credit Scoring](https://github.com/Vinylango25/Credit-Scoring-Lending-automation) | This project builds an end-to-end loan approval system using machine learning algorithms like Random Forest, XGBoost, and LightGBM. It replaces manual decision-making with faster, scalable, and data-driven processes for improved credit scoring. Key tasks include data cleaning, feature engineering, and model optimization using real-world loan data. Evaluation metrics ensure accuracy and fairness, reducing false approvals and rejections. The system supports personalized lending and dynamic pricing for better customer experience. 👉 Read the full project on [Github](https://github.com/Vinylango25/Credit-Scoring-Lending-automation) or [Medium](https://medium.com/@vinylango90/credit-scoring-lending-automation-6dabe30d53da)| Python, Scikit-learn, RF, XGBoost, LightGBM |
 | [🌍 Air Quality Monitoring in Nicosia, Cyprus](https://github.com/Vinylango25/Air-Quality-in-Nicosia-Cyprus) | To improve urban air quality monitoring, this project calibrates low-cost electrochemical sensors using ML algorithms like XGBoost, Random Forest, and ANN. Raw sensor data, collected over six months, is aligned with reference-grade measurements. The study analyzes calibration frequency, data sampling strategies, and environmental factors like humidity and cross-gas interference. Results show that with proper calibration, LCSs can meet EU and EPA accuracy standards. This opens doors for cost-effective, citywide monitoring networks. 👉 Read the full project on [Github](https://github.com/Vinylango25/Air-Quality-in-Nicosia-Cyprus)  or [Medium](https://medium.com/@vinylango90/sensor-calibration-and-air-quality-monitoring-in-nicosia-cyprus-e5072a4184aa)| Python, Scikit-learn, XGBoost, Random Forest, Data Analysis, Jupyter Notebook |
 | [🩺 COVID-19 Detection Using CT Scans](https://github.com/Vinylango25/Covid-19-Detection-Deep-Learning) | This project applies deep learning to detect COVID-19 from chest CT scans using convolutional neural networks. Models like ResNet50, DenseNet169, and MobileNetV2 are trained and fine-tuned for accurate image classification, achieving high detection accuracy through transfer learning and ensemble methods. The pipeline includes image preprocessing, augmentation, and evaluation with real-world datasets. The system supports rapid and reliable diagnosis, aiding medical decision-making. 👉 Read the full project on [Github](https://github.com/Vinylango25/Covid-19-Detection-Deep-Learning) or [Medium](https://medium.com/@vinylango90/deep-learning-based-detection-of-covid-19-from-ct-scans-using-convolutional-neural-networks-a09ca1a6f9ce) |Python, TensorFlow, Keras, CNN, ResNet50, DenseNet169, MobileNetV2 |
 | [📉 Customer Churn Analysis and Prediction](https://github.com/Vinylango25/Customer_Churn_Analysis_And_Prediction) |This project predicts customer churn using survival analysis and machine learning to identify clients likely to leave. It focuses on telecom-style use cases where retaining customers is more cost-effective than acquiring new ones. By analyzing historical behavior and risk factors, it enables targeted retention campaigns. An interactive tool is also developed to assess individual churn risk and lifetime value. This helps businesses make data-driven decisions to reduce attrition and improve customer loyalty. 👉 Read the full project on [Github](https://github.com/Vinylango25/Customer_Churn_Analysis_And_Prediction). | Python, Flask, Scikit-learn, SHAP, Cox Proportional Hazards Model, Survival Analysis |
