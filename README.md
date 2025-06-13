@@ -1,4 +1,4 @@
-<img src="figures/IMG_9038.jpg" alt="Vincent Kipkemoi" width="200" style="border-radius: 50%;" />
+<img src="figures/img.png" alt="Vincent Kipkemoi" width="200" style="border-radius: 50%;" />
 
 ### 💫 Hi there! 👋 I'm Kipkemoi Vincent  
 
