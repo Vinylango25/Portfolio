@@ -1,9 +1,6 @@
 ### 💫 Hi there! 👋 I'm Kipkemoi Vincent  
 
-I am a passionate Data Scientist, ML/AI Engineer & Data Analyst with expertise in transforming raw data into actionable insights and developing scalable data science/ ML solutions in production environments. With experience across fintech, environmental science, healthcare, and agri-tech, I build machine learning models, predictive systems, 
-and analytical solutions that drive growth and optimize decision-making.
-
-Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
+I am a passionate Data Scientist, ML/AI Engineer & Data Analyst with expertise in transforming raw data into actionable insights and developing scalable data science/ ML solutions in production environments. With experience across fintech, environmental science, healthcare, and agri-tech, I build machine learning models, predictive systems, and analytical solutions that drive growth and optimize decision-making. Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
 
 
 
