@@ -8,9 +8,9 @@ Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
 
 
 ### 🎓 Education
-- MPhil in Environmental Science: The Cyprus Institute, Nicosia Cyprus.
-- MSc in Mathematical Sciences(Data Science) : University of Western Cape/AIMS, Cape Town, South Africa.
-- BSc. Mathematics: University of Nairobi, Nairobi, Kenya.
+- MPhil in Environmental Science: The Cyprus Institute, Nicosia Cyprus, through the **Cyprus Institute Merit Scholarship**
+- MSc in Mathematical Sciences(Data Science) : University of Western Cape/AIMS, Cape Town, South Africa. The program made possible through **MasterCard Foundation scholarship**
+- BSc. Mathematics: University of Nairobi, Nairobi, Kenya, through sponsorship by **Finlays Undergraduate Scholarship**
 
 
 # 📋 Professional Summary
