@@ -20,8 +20,10 @@ I am a passionate Data Scientist, ML/AI Engineer & Data Analyst with expertise i
 - Committed to leveraging advanced analytics for risk minimization, business growth, and social impact.
 
 ## 🌍 Connect with Me  
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)   
-📫 **Email:** vincentl@aims.ac.za/vinylango90@gmail.com
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)  
+🌐 **Website:** [vinylango25.github.io](https://vinylango25.github.io/)  
+📫 **Email:** vincentl@aims.ac.za / vinylango90@gmail.com
+
 
 
 ## 💼 Featured projects
