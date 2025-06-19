@@ -5,9 +5,9 @@ I am a passionate Data Scientist, ML/AI Engineer & Data Analyst with expertise i
 
 
 ### 🎓 Education
-- MPhil in Environmental Science: The Cyprus Institute, Nicosia Cyprus, through the **Cyprus Institute Merit Scholarship**
-- MSc in Mathematical Sciences(Data Science) : University of Western Cape/AIMS, Cape Town, South Africa. The program made possible through **MasterCard Foundation scholarship**
-- BSc. Mathematics: University of Nairobi, Nairobi, Kenya, through sponsorship by **Finlays Undergraduate Scholarship**
+- MPhil in Environmental Science: The Cyprus Institute, Nicosia Cyprus; through the **Cyprus Institute Merit Scholarship**
+- MSc in Mathematical Sciences(Data Science) : University of Western Cape/AIMS, Cape Town, South Africa; The program made possible through **MasterCard Foundation scholarship**
+- BSc. Mathematics: University of Nairobi, Nairobi, Kenya; through sponsorship by **Finlays Undergraduate Scholarship**
 
 
 # 📋 Professional Summary
