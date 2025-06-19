@@ -22,7 +22,7 @@ I am a passionate Data Scientist, ML/AI Engineer & Data Analyst with expertise i
 ## 🌍 Connect with Me  
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" /> **Linkedln:** [kipkemoi-vincent-19307a94/](https://www.linkedin.com/in/kipkemoi-vincent-19307a94/)  
 🌐 **Website:** [vinylango25.github.io](https://vinylango25.github.io/) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Vinylango25)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)][github.com/Vinylango25](https://github.com/Vinylango25)
 📫 **Email:** vincentl@aims.ac.za / vinylango90@gmail.com
 
 
