@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vinylango25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ### 💫 Hi there! 👋 I'm Kipkemoi Vincent  
 
 I am a seasoned Data Scientist with over 5 years of experience in delivering data science and machine learning solutions across diverse sectors including climate, fintech, healthcare, agri-tech, and capital markets. I am skilled in designing and automating scalable ML systems, specializing in model versioning, CI/CD, and cloud-native tools like Docker, Kubernetes, and MLflow. I focus on turning complex models into production-ready solutions that deliver insights and drive business impact. Currently based in **Nairobi, Kenya**, open to opportunities **worldwide**.
